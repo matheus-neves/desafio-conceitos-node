@@ -11,12 +11,15 @@
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rotas-da-aplicação">Rotas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rodando-a-aplicação">Rodando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodando-a-aplicação">Rodando a aplicação</a>
 </p>
 
-## :rocket: Sobre o desafio
 
-Aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+---
+
+## 🚀 Sobre o desafio
+
+Aplicação para armazenar repositórios, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ## Tecnologias utilizadas
 
@@ -32,23 +35,25 @@ Aplicação para armazenar repositórios do seu portfólio, que irá permitir a 
 
 - **`GET /repositories`**
 
-- **`PUT /repositories/:id`**:
+- **`PUT /repositories/:id`**
 
 - **`DELETE /repositories/:id`**
 
 - **`POST /repositories/:id/like`**
 
+
 ## Rodando a aplicação
 
 1. Clone o repositório: `git clone git@github.com:matheus-neves/desafio-conceitos-node.git`
-2. Vá para o diretório: `cd desafio-conceitos-node`
-3. Instale as dependencias: `yarn`  
+2. Acesse o diretório: `cd desafio-conceitos-node`
+3. Instale as dependencias: `yarn`
 4. Rode a aplicação: `yarn dev`
+
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse desafio está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/LICENSE) para mais detalhes.
 
 ---
+Desafio criado com 💜by Rocketseat 👋 [Entre na comunidade!](https://discordapp.com/invite/gCRAFhc)
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
